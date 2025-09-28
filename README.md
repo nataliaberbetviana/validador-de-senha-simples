@@ -1,7 +1,7 @@
 # Validador de Senhas
 
 ## Sobre o Projeto
-Este é um mini-projeto em Python que verifica se uma senha atende a critérios básicos de segurança. O programa solicita ao usuário que digite uma senha e, em seguida, valida se ela tem o tamanho mínimo e se contém diferentes tipos de caracteres (letras, números, etc.).
+Um validador de senhas em Python. Este programa verifica se a senha atende a critérios de segurança como: no mínimo 8 caracteres, presença de letras maiúsculas e minúsculas, números, caracteres especiais e se não há repetições exageradas.
 
 ## Como Usar
 Clone este repositório para a sua máquina local.
